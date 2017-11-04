@@ -10,3 +10,5 @@
 [Reference to the result of execution Task_1](Task_1/task01.md)
 
 # Task 2
+
+[Reference to the result of execution Task_2](Task_2/task02.md)
