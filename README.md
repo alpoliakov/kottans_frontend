@@ -26,7 +26,7 @@ DNS, and other protocols that underlie the Web technologies you use.
 
 ### Article:
 __1. "HTTP: The Protocol Every Web Developer Must Know - Part 1"__
-
+    &
 __2. "HTTP: The Protocol Every Web Developer Must Know - Part 2"__
 
 - The article is a good addition to the previous courses. Gives the concept of work HTTP  and tools to view HTTP traffic.
@@ -38,5 +38,9 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 --------------------
 
 ## :heavy_check_mark: Task 2
+### Courses:
+__1. Version Control with Git__
+- Again Git!? No,  newly!
 
+__2. GitHub & Collaboration__
 >[Reference to the result of execution Task_2](Task_2/task02.md)
