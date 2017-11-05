@@ -6,6 +6,12 @@
 - I prefer to use "Source Tree" from Atlassian;
 --------------------
 ## :heavy_check_mark: Task 1
+1. Linux Command Line Basics
+- A great course to refresh your knowledge Linux Command Line Base and how the Linux
+filesystem is organized;
+- The thing I'll be using is, of course, setting up the server with VirtualBox (and of course - Linux Command Line );
+
+2. Configuring Linux Web Servers
 
 [Reference to the result of execution Task_1](Task_1/task01.md)
 
