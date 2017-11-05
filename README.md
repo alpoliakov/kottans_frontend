@@ -21,14 +21,15 @@ This course was definitely difficult for me, but it's worth it to understand it.
 DNS, and other protocols that underlie the Web technologies you use.
 - In addition I want to recommend a course [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
+>###[Reference to the result of execution Task_1](Task_1/task01.md)
+
 ### Article:
 1. "HTTP: The Protocol Every Web Developer Must Know - Part 1" & "HTTP: The Protocol Every Web Developer Must Know - Part 2"
+
 -The article is a good addition to the previous courses. Gives the concept of work HTTP  and tools to view HTTP traffic.
  It also helps when designing my network infrastructure and providing a great experience to me end users.
 - This tour has given me a good taste for the breadth of HTTP and enough pointers to further explore this protocol.
 - The article discusses the use of such Web Frameworks and Libraries as ExpressJS, Ruby on Rails, jQuery Ajax but for me it will be interesting to study "Promise" based HTTP client for the browser and node.js: [axios](https://github.com/axios/axios).
-
->###[Reference to the result of execution Task_1](Task_1/task01.md)
 
 --------------------
 
