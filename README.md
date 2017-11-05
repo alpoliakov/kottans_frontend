@@ -12,6 +12,12 @@ filesystem is organized;
 - The thing I'll be using is, of course, setting up the server with VirtualBox (and of course - Linux Command Line );
 
 2. Configuring Linux Web Servers
+- The course gives basic understanding of linux systems administration is required to not only get your web
+application up and running for the world to see, but also to ensure it continues operating efficiently.
+This course was definitely difficult for me, but it's worth it to understand it.
+
+3. Networking for Web Developers
+- 
 
 [Reference to the result of execution Task_1](Task_1/task01.md)
 
