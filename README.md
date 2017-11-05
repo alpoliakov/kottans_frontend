@@ -41,6 +41,8 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ### Courses:
 >__1. Version Control with Git__
 - Again Git!? No,  newly!
+- In fact, the course is excellent, it complements the courses that were passed before. For me it was useful to learn more about opportunities such as revert changes, or even delete commits. As well as work with organize your commits with tags.
+- In the future I want to try to use such opportunities as: revert changes, organize my commits with tags, use git commit's --amend flag to alter the last commit, use git reset and git revert to undo and erase commits.
 
 >__2. GitHub & Collaboration__
 >[Reference to the result of execution Task_2](Task_2/task02.md)
