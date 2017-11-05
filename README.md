@@ -21,6 +21,10 @@ This course was definitely difficult for me, but it's worth it to understand it.
 DNS, and other protocols that underlie the Web technologies you use.
 - In addition I want to recommend a course [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
+### Article:
+1. "HTTP: The Protocol Every Web Developer Must Know - Part 1"
+    "HTTP: The Protocol Every Web Developer Must Know - Part 2"
+
 [Reference to the result of execution Task_1](Task_1/task01.md)
 
 ## :heavy_check_mark: Task 2
