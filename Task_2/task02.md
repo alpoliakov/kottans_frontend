@@ -3,4 +3,4 @@
 ![Task_2](/img/Course_2.1.png)
 --------------------
 >## Course 2: GitHub & Collaboration
-
+![Task_2](/img/Course_2.2.png)
