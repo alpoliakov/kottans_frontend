@@ -25,9 +25,9 @@ DNS, and other protocols that underlie the Web technologies you use.
 > [Reference to the result of execution Task_1](Task_1/task01.md)
 
 ### Article:
->__1. "HTTP: The Protocol Every Web Developer Must Know - Part 1"__
-    &
->__2. "HTTP: The Protocol Every Web Developer Must Know - Part 2"__
+>__"HTTP: The Protocol Every Web Developer Must Know - Part 1"__
+    and
+>__"HTTP: The Protocol Every Web Developer Must Know - Part 2"__
 
 - The article is a good addition to the previous courses. Gives the concept of work HTTP  and tools to view HTTP traffic.
  It also helps when designing my network infrastructure and providing a great experience to me end users.
