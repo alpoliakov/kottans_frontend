@@ -17,7 +17,9 @@ application up and running for the world to see, but also to ensure it continues
 This course was definitely difficult for me, but it's worth it to understand it.
 
 3. Networking for Web Developers
-- 
+- Great course! Excellent structured and prepared. Gives understanding фищге the TCP/IP stack, IP addressing,
+DNS, and other protocols that underlie the Web technologies you use.
+- In addition I want to recommend a course [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
 [Reference to the result of execution Task_1](Task_1/task01.md)
 
