@@ -66,7 +66,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ## :heavy_check_mark: Task 4
 ### Courses:
 >__1. Responsive Web Design Fundamentals__
-- Good material for repetition. From the interesting - reasoning when and where to apply the transition points when using __Media Queries__ and of course, examples of use __Flexbox__ & __Pattern - Off Canvas__. It is interesting to work with fontsB however, unfortunately - not informative.
+- Good material for repetition. From the interesting - reasoning when and where to apply the transition points when using __Media Queries__ and of course, examples of use __Flexbox__ & __Pattern - Off Canvas__. It is interesting to work with responsive fonts however, unfortunately - not informative.
 - Of the bad - did not present the technology __CSS Grid Layout__. It is sad.
 
 >[Reference to the result of execution Task 4](Task_4/task04.md)
