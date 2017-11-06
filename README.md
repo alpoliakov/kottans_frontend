@@ -63,4 +63,9 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 
 --------------------
 
+## :heavy_check_mark: Task 4
+### Courses:
+>__1. Responsive Web Design Fundamentals__
+
+--------------------
 
