@@ -56,5 +56,11 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ## :heavy_check_mark: Task 3
 ### Courses:
 >__1. HTML and CSS Syntax (Intro to HTML & CSS)__
+- As for the entry level study () is not bad. The course is inter-active, there are several tasks that must be completed.
+- This course did not give me anything new. (Practice only).
+
+>[Reference to the result of execution Task_3](Task_3/task03.md)
+
+--------------------
 
 
