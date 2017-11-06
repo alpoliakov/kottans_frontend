@@ -50,3 +50,11 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - All these tools I would like to use when working with projects.
 
 >[Reference to the result of execution Task_2](Task_2/task02.md)
+
+--------------------
+
+## :heavy_check_mark: Task 3
+### Courses:
+>__1. HTML and CSS Syntax (Intro to HTML & CSS)__
+
+
