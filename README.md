@@ -40,9 +40,13 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ## :heavy_check_mark: Task 2
 ### Courses:
 >__1. Version Control with Git__
-- Again Git!? No,  newly!
+- Again Git, really!? No,  newly!
 - In fact, the course is excellent, it complements the courses that were passed before. For me it was useful to learn more about opportunities such as revert changes, or even delete commits. As well as work with organize your commits with tags.
 - In the future I want to try to use such opportunities as: revert changes, organize my commits with tags, use git commit's --amend flag to alter the last commit, use git reset and git revert to undo and erase commits.
 
 >__2. GitHub & Collaboration__
+- Can be called continuation of the course "Version Control with Git" where you to learn to build projects collaboratively.
+- In lesson 1, I did not learn anything new, but the following two gave excellent material for studying. That are "filtering collaborator's commits": __group commits by author with git shortlog__ (git shortlog, git shortlog -s -n, ), __filter commits with the --author flag__ (git log --author="******"), __filter commits using the --grep flag__ (git log --grep="bags"); "Determine how best to contribute to a project": __CONTRIBUTING.md File__, __GitHub Issues__, __Topic Branches__, __Best Practices__; "create a new remote with the __git remote add__ command"; using __squash commits__ (git rebase);
+- All these tools I would like to use when working with projects.
+
 >[Reference to the result of execution Task_2](Task_2/task02.md)
