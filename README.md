@@ -22,7 +22,7 @@ This course was definitely difficult for me, but it's worth it to understand it.
 DNS, and other protocols that underlie the Web technologies you use.
 - In addition I want to recommend a course [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
-> [Reference to the result of execution Task_1](Task_1/task01.md)
+> [Reference to the result of execution Task 1](Task_1/task01.md)
 
 ### Article:
 >__"HTTP: The Protocol Every Web Developer Must Know - Part 1"__
@@ -49,7 +49,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - In lesson 1, I did not learn anything new, but the following two gave excellent material for studying. That are "filtering collaborator's commits": __group commits by author with git shortlog__ (git shortlog, git shortlog -s -n, ), __filter commits with the --author flag__ (git log --author="******"), __filter commits using the --grep flag__ (git log --grep="bags"); "Determine how best to contribute to a project": __CONTRIBUTING.md File__, __GitHub Issues__, __Topic Branches__, __Best Practices__; "create a new remote with the __git remote add__ command"; using __squash commits__ (git rebase);
 - All these tools I would like to use when working with projects.
 
->[Reference to the result of execution Task_2](Task_2/task02.md)
+>[Reference to the result of execution Task 2](Task_2/task02.md)
 
 --------------------
 
@@ -59,7 +59,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - As for the entry level study () is not bad. The course is inter-active, there are several tasks that must be completed.
 - This course did not give me anything new. (Practice only).
 
->[Reference to the result of execution Task_3](Task_3/task03.md)
+>[Reference to the result of execution Task 3](Task_3/task03.md)
 
 --------------------
 
