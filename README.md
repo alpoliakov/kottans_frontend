@@ -77,5 +77,10 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ### Course:
 >__1. Intro to JavaScript__
 
+- A good course for repeating the material and solving simple tasks. It's all.
+- Thanks for the extra materials!
+
+>[Reference to the result of execution Task 5](Task_5/task05.md)
+
 --------------------
 
