@@ -88,4 +88,8 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ### Course:
 >__1. Object-Oriented JavaScript__
 
+- Probably need to write something and ... probably it will be: "I'm glad that in modern JavaScript there was an opportunity to do all this through classes."
+
+>[Reference to the result of execution Task 6](Task_6/task06.md)
+
 --------------------
