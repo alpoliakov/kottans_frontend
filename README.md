@@ -93,3 +93,10 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 >[Reference to the result of execution Task 6](Task_6/task06.md)
 
 --------------------
+
+## :heavy_check_mark: Task 7
+### Course:
+>__1. Offline Web Applications__
+
+--------------------
+
