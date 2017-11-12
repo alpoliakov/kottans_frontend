@@ -98,5 +98,8 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ### Course:
 >__1. Offline Web Applications__
 
+- After the course, mixed feelings remained. The course is full of information and is definitely complex, and in the event that a person has not faced Promises and working with databases, there will be "sadness and pain".
+- The main thing I took for myself is the principles of working with Service Worker and IndexedDB.
+
 --------------------
 
