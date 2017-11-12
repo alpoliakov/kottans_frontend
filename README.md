@@ -107,7 +107,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 
 ## :heavy_check_mark: Task 8
 ### Course:
->__1. create "Memory - Pair Game"
+>__1. Create "Memory - Pair Game"__
 
 --------------------
 
