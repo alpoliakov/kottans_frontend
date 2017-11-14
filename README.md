@@ -109,7 +109,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 ### Course:
 >__1. Create "Memory - Pair Game"__
 
->[Reference to the result of execution Task 7](Task_8/task08.md)
+>[Reference to the result of execution Task 8](Task_8/task08.md)
 
 >[Reference to GitHub Page](https://alpoliakov.github.io/)
 
