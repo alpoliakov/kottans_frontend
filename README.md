@@ -115,5 +115,15 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 
 --------------------
 
+## :heavy_check_mark: Task 9
+### Course:
+>__1. Website Performance Optimization__
+
+
+>[Reference to the result of execution Task 9](Task_9/task09.md)
+
+--------------------
+
+
 
 
