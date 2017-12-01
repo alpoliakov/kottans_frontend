@@ -127,7 +127,7 @@ be interesting to study "Promise" based HTTP client for the browser and node.js:
 - Work with layers, compositing, optimization of Styles and JS, work with the adaptation of the sizes of elements, optimization of pictures and animations is an excellent material for application in work.
 - Manage downloads when the application starts.
 - Apply relative sizes of elements instead of fixed ones.
-- Responsive Images - excellent material for study and further use in work. (Tag <source>, attribute **srcset**, use multiple pictures for different screen sizes and etc.)
+- Responsive Images - excellent material for study and further use in work. (Tag **<source>**, attribute **'srcset'**, use multiple pictures for different screen sizes and etc.)
 
 >[Reference to the result of execution Task 9](Task_9/task09.md)
 
